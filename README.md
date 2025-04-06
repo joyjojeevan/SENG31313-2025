@@ -101,9 +101,9 @@ Libraries & Tools Used
 - **Google Fonts** (Poppins)
 
  Live Hosted Link
-[Click to View the Live Site](https://joyjojeevan.github.io/your-repo-folder/)
+[Click to View the Live Site](https://joyjojeevan.github.io/SENG31313-2025/)
 
-> Replace with your actual GitHub Pages / Netlify / Vercel URL
+ Netlify hosting page link :(https://stellar-pavlova-d8c8e2.netlify.app/)
 
  How to Run the Project Locally
 
